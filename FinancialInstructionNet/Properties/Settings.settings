@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FinancialInstructionNet.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SundayCurrencyList" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AED,SAR</Value>
+    </Setting>
+    <Setting Name="cachykey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">InstructionDB</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

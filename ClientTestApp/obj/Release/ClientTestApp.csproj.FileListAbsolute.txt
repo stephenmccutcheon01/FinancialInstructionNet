@@ -1,0 +1,13 @@
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Release\ClientTestApp.exe.config
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Release\ClientTestApp.exe
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Release\ClientTestApp.pdb
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Release\Newtonsoft.Json.dll
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Release\SharedObjects.dll
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Release\SharedObjects.pdb
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Release\Newtonsoft.Json.xml
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Release\ClientTestApp.csprojResolveAssemblyReference.cache
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Release\ClientTestApp.Properties.Resources.resources
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Release\ClientTestApp.SendInstruction.resources
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Release\ClientTestApp.csproj.GenerateResource.Cache
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Release\ClientTestApp.exe
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Release\ClientTestApp.pdb

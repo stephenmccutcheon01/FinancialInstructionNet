@@ -1,0 +1,10 @@
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\bin\Release\USDReportingTool.exe.config
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\bin\Release\USDReportingTool.exe
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\bin\Release\USDReportingTool.pdb
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\bin\Release\Newtonsoft.Json.dll
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\bin\Release\SharedObjects.dll
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\bin\Release\SharedObjects.pdb
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\bin\Release\Newtonsoft.Json.xml
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\obj\Release\USDReportingTool.csprojResolveAssemblyReference.cache
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\obj\Release\USDReportingTool.exe
+C:\MessAbout\FinancialInstructionNet\USDReportingTool\obj\Release\USDReportingTool.pdb

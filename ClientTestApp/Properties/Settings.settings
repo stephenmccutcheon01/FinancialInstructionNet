@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ClientTestApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ErrorMsg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Error</Value>
+    </Setting>
+    <Setting Name="ErrorAgreedFx" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Agreed FX must be a decimal.</Value>
+    </Setting>
+    <Setting Name="UnitsMustBeint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Units must be a integer.</Value>
+    </Setting>
+    <Setting Name="PricePerUnitMsg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Price Per Unit must be a decimal.</Value>
+    </Setting>
+    <Setting Name="APIFinancialNet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost/FinancialInstructionNet/Api/Instruction</Value>
+    </Setting>
+    <Setting Name="APICallTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">API Call</Value>
+    </Setting>
+    <Setting Name="APICallSuccessfull" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Instruction successfully sent.</Value>
+    </Setting>
+    <Setting Name="APICallGenralError" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Instruction failed to send</Value>
+    </Setting>
+    <Setting Name="APIValidationFail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Instruction rejected due to validation fail.</Value>
+    </Setting>
+    <Setting Name="ZeroDecimal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.00</Value>
+    </Setting>
+    <Setting Name="ZeroInt" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

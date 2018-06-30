@@ -1,0 +1,4 @@
+C:\MessAbout\FinancialInstructionNet\SharedObjects\bin\Release\SharedObjects.dll
+C:\MessAbout\FinancialInstructionNet\SharedObjects\bin\Release\SharedObjects.pdb
+C:\MessAbout\FinancialInstructionNet\SharedObjects\obj\Release\SharedObjects.dll
+C:\MessAbout\FinancialInstructionNet\SharedObjects\obj\Release\SharedObjects.pdb

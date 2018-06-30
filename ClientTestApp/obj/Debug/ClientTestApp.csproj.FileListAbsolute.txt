@@ -1,0 +1,13 @@
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Debug\ClientTestApp.exe.config
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Debug\ClientTestApp.exe
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Debug\ClientTestApp.pdb
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Debug\ClientTestApp.Properties.Resources.resources
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Debug\ClientTestApp.csproj.GenerateResource.Cache
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Debug\ClientTestApp.exe
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Debug\ClientTestApp.pdb
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Debug\ClientTestApp.SendInstruction.resources
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Debug\Newtonsoft.Json.dll
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Debug\Newtonsoft.Json.xml
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\obj\Debug\ClientTestApp.csprojResolveAssemblyReference.cache
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Debug\SharedObjects.dll
+C:\MessAbout\FinancialInstructionNet\ClientTestApp\bin\Debug\SharedObjects.pdb
